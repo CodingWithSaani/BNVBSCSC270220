@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="POSTS"
+        android:id="@+id/item_posts"
+        android:icon="@drawable/ic_posts"
+        />
+
+    <item
+        android:title="FRIENDS"
+        android:id="@+id/item_friends"
+        android:icon="@drawable/ic_friends"
+        />
+
+    <item
+        android:title="SEARCH"
+        android:id="@+id/item_search"
+        android:icon="@drawable/ic_search"
+        />
+</menu>
